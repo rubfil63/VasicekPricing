@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Vincent.
+### I am Vincent. The demonstrated code is about option pricing
 <!--
 **rubfil63/rubfil63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
